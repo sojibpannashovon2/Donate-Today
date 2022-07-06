@@ -1,1 +1,55 @@
-style {}
+body {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0%;
+}
+
+div {
+    text-align: center;
+    font-display: center;
+
+
+
+
+
+}
+
+.donate-button {
+
+    background-color: rgba(255, 99, 71, 0.918);
+    background-size: 10px 10px 10px;
+}
+
+p {
+    text-justify: inter-word;
+
+}
+
+.half-width {
+
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    padding-top: 300px;
+    padding-left: 500px;
+
+
+}
+
+.cover-page-container {
+
+    background-image: url(images/donation9.jpg);
+
+    background-size: 100% 100%;
+    background-size: cover;
+    height: 800px;
+    padding-top: 80px;
+    color: white;
+
+
+
+
+
+
+
+}
