@@ -233,3 +233,36 @@ footer p {
     color: rgb(255, 0, 0);
     font-family: cursive;
 }
+
+
+.flexible-container {
+
+    margin-bottom: 150px;
+    margin-left: 20px;
+
+
+}
+
+
+.half-width-bonous {
+
+    margin-bottom: 150px;
+    margin-left: 20px;
+    display: flex;
+
+    margin-left: 10%;
+
+}
+
+.half-width-bonous img {
+
+    width: 600px;
+    height: 600px;
+    margin-right: 30%;
+
+
+}
+
+.finsh {
+    margin-top: 10%;
+}
